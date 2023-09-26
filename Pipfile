@@ -8,6 +8,9 @@ flask-sqlalchemy = "*"
 flask = "*"
 jsonify = "*"
 flask-migrate = "*"
+requests = "*"
+migrations = "*"
+flask-script = "*"
 
 [dev-packages]
 
